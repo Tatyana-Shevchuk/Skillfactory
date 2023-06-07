@@ -1,0 +1,13 @@
+.two-in {
+    display:flex;
+    flex-direction: column;
+  }
+  input {
+    margin: 20px 0;
+  }
+  :focus::placeholder {
+    color: transparent;
+  }
+  .result {
+    margin: 20px 0;
+  }
