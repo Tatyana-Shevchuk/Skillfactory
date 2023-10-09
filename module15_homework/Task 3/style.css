@@ -1,0 +1,42 @@
+div {
+    padding: 10px 0;
+}
+
+button {
+    background-color:blueviolet;
+    color: chartreuse;
+    padding: 10px 15px;
+    border-radius: 10%;
+    border-color: chartreuse;
+}
+input {
+    font-size: 24px;
+    border-color: darkblue;
+    border: solid 5px;
+}
+span {
+    font-size: 24px;
+    color:darkblue;
+}
+.chat_area_res {
+    display: flex;
+    flex-direction: column;
+    color: aqua;
+}
+h1 {
+    font-size: 32px;
+    color: yellowgreen;
+
+}
+.chat__area {
+    border: solid 5px;
+    border-color: darkblue;
+    border-radius: 10%;
+    width: 500px;
+    height: 300px;
+    padding: 25px;
+}
+#geo_map {
+    color:yellowgreen; 
+    font-size: 24px;
+}
